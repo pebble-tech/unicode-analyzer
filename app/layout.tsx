@@ -7,8 +7,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
   title: "Unicode Analyzer for AI Prompts",
-  description: "Detect and remove hidden Unicode characters that could be used for prompt injection attacks",
-    generator: 'v0.dev'
+  description: "Detect and remove hidden Unicode characters that could be used for prompt injection attacks"
 }
 
 export default function RootLayout({
